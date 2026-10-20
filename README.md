@@ -4,9 +4,11 @@
 
 ## ⬇️ Download
 
-**[Download Pocket Toolkit for Windows v1.0.0](https://github.com/mobo4695/pocket-toolkit-releases/releases/tag/v1.0.0)** (about 100 MB)
+**[Get it from the Microsoft Store](https://apps.microsoft.com/detail/9MTWMH0WRV0N)** — the easiest way: one click to install, automatic updates, no security warnings.
 
-### How to run
+Or download the zip directly: **[Pocket Toolkit for Windows v1.0.0](https://github.com/mobo4695/pocket-toolkit-releases/releases/tag/v1.0.0)** (about 100 MB)
+
+### How to run (zip version)
 
 1. Download the zip and unzip it.
 2. Open the folder and double-click **PocketToolkit.exe** — no installation needed.
@@ -31,9 +33,8 @@ PDF Page Manager, Sign PDF, Fill PDF Form, Word to PDF, Compress PDF, PDF to Ima
 
 **[Buy a Pro key](https://pocketoolkit.lemonsqueezy.com/checkout/buy/437f82b7-279d-4b2f-9d0c-4f0e7625335d)** — after buying, paste the key into the app's Unlock page once; Pro then stays unlocked on that PC, even offline. No subscription.
 
-## Also coming soon
+## Coming soon
 
-- **Microsoft Store** version — in preparation.
 - **Android** version — coming soon to Google Play.
 
 ## Privacy
